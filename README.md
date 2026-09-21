@@ -19,3 +19,6 @@ print('Goodbye Python')
 ---
 ![깃허브 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
+
+## pull 연습 중
+- 이 코드는 깃허브에서 바로 추가한 코드입니다.
