@@ -51,6 +51,8 @@ print('Goodbye Python')
 ## 푸터 footer
 - 푸터 추가
 
+## SEARCH 개발
+- SEARCH 기능 추가
 
 ## SIDEBAR 개발
 - SIDEBAR 추가
