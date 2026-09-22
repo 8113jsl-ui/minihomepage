@@ -53,3 +53,6 @@ print('Goodbye Python')
 
 ## SEARCH 개발
 - SEARCH 기능 추가
+
+## SIDEBAR 개발
+- SIDEBAR 추가
