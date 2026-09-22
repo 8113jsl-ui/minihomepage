@@ -50,3 +50,7 @@ print('Goodbye Python')
 
 ## 푸터 footer
 - 푸터 추가
+
+
+## SIDEBAR 개발
+- SIDEBAR 추가
